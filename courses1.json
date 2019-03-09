@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 1,
+    "exercise": [
+      {
+        "courseId": "1",
+        "name": "learning os",
+        "hint": "Iss course mein hum ache se os seekhenge.",
+        "id": 1,
+        "submission": [
+          {
+            "courseId": "1",
+            "exerciseId": "1",
+            "user_name": "aijaj",
+            "content": "css",
+            "id": 1
+          }
+        ]
+      },
+      {
+        "courseId": "1",
+        "name": "learning Android",
+        "hint": "Iss course mein hum ache se os seekhenge.",
+        "id": 2,
+        "submission": [
+          {
+            "courseId": "1",
+            "exerciseId": "2",
+            "user_name": "ajay",
+            "content": "android_file",
+            "id": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTMnL/CSnS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 2,
+    "exercise": [
+      {
+        "courseId": "2",
+        "name": "learning Android",
+        "hint": "Iss course mein hum ache se os seekhenge.",
+        "id": 1,
+        "submission": [
+          {
+            "courseId": "2",
+            "exerciseId": "1",
+            "user_name": "anoop",
+            "content": "HTML",
+            "id": 1
+          }
+        ]
+      },
+      {
+        "courseId": "2",
+        "name": "learning os",
+        "hint": "Iss course mein hum ache se os seekhenge.",
+        "id": 2,
+        "submission": [
+          {
+            "courseId": "2",
+            "exerciseId": "2",
+            "user_name": "jay",
+            "content": "flask_file",
+            "id": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 3,
+    "exercise": [
+      {
+        "courseId": "3",
+        "name": "learning os",
+        "hint": "Iss course mein hum ache se os seekhenge.",
+        "id": 1,
+        "submission": [
+          {
+            "courseId": "3",
+            "exerciseId": "1",
+            "user_name": "sunil",
+            "content": "scraping_file",
+            "id": 1
+          }
+        ]
+      },
+      {
+        "courseId": "3",
+        "name": "learning gmail",
+        "hint": "Iss course mein hum ache se email seekhenge.",
+        "id": 2,
+        "submission": [
+          {
+            "courseId": "3",
+            "exerciseId": "2",
+            "id": 1
+          },
+          {
+            "courseId": "3",
+            "exerciseId": "2",
+            "user_name": "anoop",
+            "content": "python",
+            "id": 2
+          }
+        ]
+      }
+    ]
+  }
+]
